@@ -1,0 +1,12 @@
+#container {
+  margin: auto;
+  width: 320px;
+}
+
+.border {
+  border: 1px solid #000;
+}
+
+ul li:nth-child(even) {
+  background: #f4f4f4;
+}
